@@ -25,6 +25,4 @@
 [![](https://visitcount.itsvg.in/api?id=scriptysarah&icon=2&color=12)](https://visitcount.itsvg.in)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scriptysarah&label=Profile%20views&color=0e75b6&style=flat" alt="scriptysarah" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scriptysarah" alt="scriptysarah" /></a> </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
